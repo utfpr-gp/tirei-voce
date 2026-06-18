@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/utfpr-gp/tirei-voce#readme",
   "devDependencies": {
-    "prettier": "^3.8.4"
+    "prettier": "^3.8.4",
+    "supabase": "^2.107.0"
   }
 }
