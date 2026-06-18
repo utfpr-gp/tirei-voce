@@ -1,3 +1,5 @@
 # tirei-voce
-[![CI Pipeline](https://github.com/utfpr-gp/tirei-voce/actions/workflows/ci.yml/badge.svg)](https://github.com/utfpr-gp/tirei-voce/actions/workflows/ci.yml)
+![Develop](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/tirei-voce/ci.yml?branch=develop&label=develop&style=flat-square)
+![Main](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/tirei-voce/ci.yml?branch=main&label=main&style=flat-square)
+
 Aplicação colaborativa para sorteio e gestão de Amigo Secreto.
