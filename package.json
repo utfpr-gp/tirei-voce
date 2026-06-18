@@ -1,0 +1,34 @@
+{
+  "name": "tirei-voce",
+  "version": "1.0.0",
+  "description": "Aplicação colaborativa para sorteio e gestão de Amigo Secreto.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:api": "echo 'Backend não configurado. Rode o Workflow 2.'",
+    "dev:web": "npm run start -w apps/web",
+    "format": "prettier --write \"**/*.{ts,js,json,css,scss,md}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utfpr-gp/tirei-voce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/utfpr-gp/tirei-voce/issues"
+  },
+  "homepage": "https://github.com/utfpr-gp/tirei-voce#readme",
+  "devDependencies": {
+    "prettier": "^3.8.4"
+  }
+}
